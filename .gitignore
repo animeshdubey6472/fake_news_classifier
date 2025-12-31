@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Data files (IMPORTANT)
+data/
+*.csv
+
+# Trained models / artifacts
+*.h5
+*.pkl
+*.pt
+
+# OS / IDE
+.DS_Store
+.vscode/
+
+# Local / system folders
+.virtual_documents/
+anaconda_projects/
